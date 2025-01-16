@@ -2,6 +2,21 @@
 
 This project analyzes the Yelp dataset to extract insights about businesses, reviews, and user behaviors. Using Python and Pandas, the project processes large datasets efficiently by leveraging chunk processing and memory optimization techniques.
 
+### **Restaurant Business Insights Using Yelp Data**
+Objective: Determine optimal restaurant categories, locations, and pricing strategies based on Yelp data.
+
+#### Key Insights:
+- **Where to Open**: Identified high-footfall areas like *51 N 12th St* in Philadelphia.
+- **What to Open**: Pizza is the most preferred category, but Mexican and Italian cuisines offer less competition and strong demand.
+- **When to Open**: The fall season shows the highest review volumes, aligning with peak customer activity.
+- **What Price Range**: Restaurants in moderate premium pricing (`$$$`) attract higher ratings with lower competition.
+- **Customer Preferences**: Outdoor seating enhances ratings significantly.
+
+#### Skills Developed:
+- Writing efficient SQL queries for data extraction.
+- Using Azure for scalable cloud-based data processing.
+- Generating actionable business insights from large datasets.
+
 ## Dataset
 
 The data is sourced from the **Yelp Dataset** and includes the following components:
